@@ -14,9 +14,9 @@ git clone https://github.com/neo4j-examples/nlp-knowledge-graph.git
 cd nlp-knowledge-graph
 ----
 
-=== Launch Neo4j
+=== Launch Neo4j via docker
 
-You can launch Neo4j by using the following command:
+You can launch Neo4j by using the following command in the docker (make sure the docker is running):
 
 [source,bash]
 ----
